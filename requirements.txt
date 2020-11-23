@@ -14,4 +14,4 @@ tensorflow-estimator
 urllib3
 uvicorn
 gunicorn
-shutil
+pytest-shutil
