@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueryDataFromGoogle</folder>
+	<filename>kho-so-vi-so-nha-ten-pho-1-1490433393904.jpg</filename>
+	<path>D:\AI_ML_PROJECT\Object_Detection_RESET1010\QueryDataFromGoogle\kho-so-vi-so-nha-ten-pho-1-1490433393904.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>2</ymin>
+			<xmax>555</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

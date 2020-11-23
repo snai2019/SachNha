@@ -1,0 +1,26 @@
+<annotation>
+	<folder>QueryDataFromGoogle</folder>
+	<filename>unnamed.jpg</filename>
+	<path>D:\AI_ML_PROJECT\Object_Detection_RESET1010\QueryDataFromGoogle\unnamed.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>banner</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>401</ymin>
+			<xmax>246</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>
